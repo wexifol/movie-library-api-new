@@ -12,3 +12,4 @@ app.include_router(movies.router)
 app.include_router(genres.router)
 app.include_router(directors.router)
 app.include_router(favorites.router)
+
